@@ -1,0 +1,8 @@
+p {
+	color: snow; 
+	background: brown;
+	font-weight:normal; 
+	text-align:center; 
+}
+ p1 {text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;2px 2px #ff0000;
+}

@@ -1,2 +1,4 @@
-# Basic_HTML_and_CSS
-A place for basic HTML and CSS. 
+CSS
+This file includes my first basic CSS projects.
+Spacing Challenge
+There is a home page for a space shuttle delivery service, that includes HTML linked to a CSS file. 
